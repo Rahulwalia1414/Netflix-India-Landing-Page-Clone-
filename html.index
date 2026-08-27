@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix India - Watch shows online,watch movies online</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+    
+    <div class="main">
+        <div class="navbar">    
+            <div class="logo">
+                <img src="logo.svg">
+            </div>
+            <div class="right">
+                <div class="lan">
+                    <select name="English">
+                    <option value="English">English</option>
+                    <option value="Punjabi">Punjabi</option>
+                    <option value="Hindi">Hindi</option>
+                    <option value="Japanese">Japanese</option>
+                    <option value="Chinese">Chinese</option>
+                </select> 
+                </div>
+
+                <div class="sign">
+                <button>sign up</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="con">
+            <div class="text">
+            <div class="t1">Unlimited movies, shows, and more from $10.</div>
+            <div class="t2">Join today.Cancel anytime</div>
+            <div class="t3">Ready to watch? Enter your email to create or restart your membership.</div>
+            <div class="input">
+                <div class="email">
+                    <input type="text" id="email" name="email id" placeholder="Email address">  
+                </div>
+                <div class="start">
+                    <button>Get started ></button>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <div class="slide1">
+        <div class="text2">
+            <div class="slide1t1">Enjoy on your TV</div>
+            <div class="slide1t2">Watch on SmartTVs , Playstation, Xbox,
+                 Chromecast, Apple TV, Blu-ray players, and 
+                more.</div>
+        </div>
+        <div class="photo">
+            <img src="image1.png.png">
+        </div>
+    </div>
+
+    <div class="slide1">
+        <div class="photo">
+            <img src="image2.png.png">
+        </div>
+        <div class="text2">
+            <div class="slide1t1">Watch everywhere</div>
+            <div class="slide1t2">Stream unlimited movies and TV shows on your phones, tablet, loptop, and TV</div>
+        </div>
+    </div>
+
+        <div class="slide1">
+        <div class="text2">
+            <div class="slide1t1">Create profiles for kids</div>
+            <div class="slide1t2"> Send kids on adventure with their favorite characters in a space made just for then-free with your membership</div>
+        </div>
+        <div class="photo">
+            <img src="image4.png.png">
+        </div>
+    </div>
+
+    <div class="slide1">
+        <div class="photo">
+            <img src="image3.png.png">
+        </div>
+        <div class="text2">
+            <div class="slide1t1">Download your shows to watch offline</div>
+            <div class="slide1t2">Watch on a plane, train, or submarine</div>
+        </div>
+    </div>
+
+    </div>
+</body>
+</html>
